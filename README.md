@@ -1,6 +1,12 @@
 # Faustcommon
 
-TODO: Write a gem description
+Common library files for FAUST sensor clients.
+
+## Build
+
+To buil the gem simply issue the command:
+
+    gem build gem build faustcommon.gemspec
 
 ## Installation
 
